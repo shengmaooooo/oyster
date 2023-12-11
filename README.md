@@ -1,2 +1,1 @@
-# shengmaooooo
-.github.io
+# shengmaooooo.github.io
