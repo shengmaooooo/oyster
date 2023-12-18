@@ -5,7 +5,7 @@ body {
     background-color: #cfa860;
     color : #a87518;
     font-family: Verdana, Arial, sans-serif;
-    background-image: url("background.gif")    
+    background-image: url(background.gif)    
 }
 
 
@@ -14,7 +14,7 @@ header{
     color:#edc681;
     min-height:150px;
     font-weight: bold;
-    background-image: url("javajamlogo.jpg");
+    background-image: url(javajamlogo.jpg);
     background-repeat: no-repeat;
     
 }
