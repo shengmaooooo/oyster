@@ -5,7 +5,7 @@ body {
     background-color: #cfa860;
     color : #a87518;
     font-family: Verdana, Arial, sans-serif;
-    background-image: url("pics/background.gif")    
+    background-image: url("background.gif")    
 }
 
 
@@ -14,7 +14,7 @@ header{
     color:#edc681;
     min-height:150px;
     font-weight: bold;
-    background-image: url("pics/javajamlogo.jpg");
+    background-image: url("javajamlogo.jpg");
     background-repeat: no-repeat;
     
 }
@@ -119,7 +119,7 @@ img{
 }
 
 #heroroad{
-    background-image: url(pics/heroroad.jpg);
+    background-image: url(heroroad.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     
@@ -128,7 +128,7 @@ img{
 }
 
 #heromugs{
-    background-image: url(pics/heromugs.jpg);
+    background-image: url(heromugs.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     height: 250px;
@@ -136,7 +136,7 @@ img{
 }
 
 #heroguitar{
-    background-image: url(pics/heroguitar.jpg);
+    background-image: url(heroguitar.jpg);
     background-size: 100%;
     height: 250px;
     background-repeat: no-repeat;
@@ -144,7 +144,7 @@ img{
 }
 
 #herojobs{
-    background-image: url(pics/herojobs.jpg);
+    background-image: url(herojobs.jpg);
     background-size: 100%;
     height: 250px;
     background-repeat: no-repeat;
